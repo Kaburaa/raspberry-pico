@@ -1,2 +1,2 @@
 # raspberry-pico
-use of raspberry-pico with ultrasonic sensor
+raspberry pico with different sensors
